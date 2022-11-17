@@ -8,8 +8,6 @@ def view2():
     headingFrame1 = Frame(root, bg="cyan3", bd = 5)
     headingFrame1.place(relx=0.2, rely=0.1, relwidth=0.6, relheight=0.16)
 
-
-
     label = Label(headingFrame1, text="Thời khóa biểu giảng viên", bg='cyan3', fg='black', font=('Courier', 15))
     label.place(relx=0.1,rely=0.3,relwidth=0.8,relheight=0.5)
 
